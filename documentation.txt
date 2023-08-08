@@ -1,0 +1,31 @@
+	server language:
+=============================
+	1.Java
+	2.Python
+	3.C#
+	4.Ruby on rail
+	5.PHP
+
+
+PHP:
+======================
+1.OOP
+-------
+class, namespace, property, method, object
+--------------------------------------------
+encapsulation, inheritance, polymorphisom, interface, trait
+
+2.Procedural
+
+
+
+Object Oriented Programming (OOP):
+=====================================
+Before create anything create Specification First
+------------------------------------------------------
+		Specification(class):
+	=================================
+		1.Information(property/attribute)
+		2.Activity(method/behaviour)
+
+	
