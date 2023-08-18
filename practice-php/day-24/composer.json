@@ -1,0 +1,14 @@
+{
+  "name": "php-grade-point/php-grade-point",
+  "type": "project",
+  "description": "A simple grade point assign project",
+  "keywords": [],
+  "license": "",
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "App\\" : "app//"
+    }
+  }
+}
